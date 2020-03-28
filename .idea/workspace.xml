@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BookFinder:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1377bb2c-3c18-437f-a51e-a9b72980edc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9liaNp4RFSSSG01YwKOTHEoYh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.WebApplication">
+    <configuration name="Databench" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.books.databench.Databench" />
+      <module name="BookFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.books.databench.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.books.webservice.WebApplication" />
+      <module name="BookFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.books.webservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebApplication" />
+        <item itemvalue="Application.Databench" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1377bb2c-3c18-437f-a51e-a9b72980edc2" name="Default Changelist" comment="" />
+      <created>1580466318505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580466318505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1580482154022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580482154022" />
+    <state x="518" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580558529094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580558529094" />
+    <state x="924" y="466" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582885392662">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="888" y="434" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581930757405" />
+    <state x="924" y="466" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582885392662" />
+    <state x="455" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580671558288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580671558288" />
+    <state x="568" y="217" key="FileChooserDialogImpl" timestamp="1580558711115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580558711115" />
+    <state width="1218" height="191" key="GridCell.Tab.0.bottom" timestamp="1582886242089">
+      <screen x="67" y="27" width="1647" height="897" />
+    </state>
+    <state width="914" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581935698671" />
+    <state width="1218" height="191" key="GridCell.Tab.0.bottom/67.27.1647.897@67.27.1647.897" timestamp="1582886242089" />
+    <state width="1218" height="191" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581851824136" />
+    <state width="1218" height="191" key="GridCell.Tab.0.center" timestamp="1582886242088">
+      <screen x="67" y="27" width="1647" height="897" />
+    </state>
+    <state width="914" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581935698671" />
+    <state width="1218" height="191" key="GridCell.Tab.0.center/67.27.1647.897@67.27.1647.897" timestamp="1582886242088" />
+    <state width="1218" height="191" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581851824134" />
+    <state width="1218" height="191" key="GridCell.Tab.0.left" timestamp="1582886242087">
+      <screen x="67" y="27" width="1647" height="897" />
+    </state>
+    <state width="914" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581935698671" />
+    <state width="1218" height="191" key="GridCell.Tab.0.left/67.27.1647.897@67.27.1647.897" timestamp="1582886242087" />
+    <state width="1218" height="191" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581851824133" />
+    <state width="1218" height="191" key="GridCell.Tab.0.right" timestamp="1582886242088">
+      <screen x="67" y="27" width="1647" height="897" />
+    </state>
+    <state width="914" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581935698671" />
+    <state width="1218" height="191" key="GridCell.Tab.0.right/67.27.1647.897@67.27.1647.897" timestamp="1582886242088" />
+    <state width="1218" height="191" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581851824135" />
+    <state x="268" y="50" key="SettingsEditor" timestamp="1581932687397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="268" y="50" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581932687397" />
+    <state x="463" y="467" key="com.intellij.ide.util.TipDialog" timestamp="1582885387129">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="410" y="435" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581930735487" />
+    <state x="420" y="403" key="com.intellij.ide.util.TipDialog/67.27.1651.901@67.27.1651.901" timestamp="1581668403181" />
+    <state x="463" y="467" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582885387129" />
+    <state x="940" y="192" width="688" height="660" key="dock-window-1" timestamp="1580553735358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="940" y="192" width="688" height="660" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580553735358" />
+  </component>
+</project>
