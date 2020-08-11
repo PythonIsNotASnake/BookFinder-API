@@ -20,7 +20,8 @@ public class Databench {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 
-			String url = "jdbc:mysql://192.168.178.40:3306/books";
+			// String url = "jdbc:mysql://192.168.178.40:3306/books";
+			String url = "jdbc:mysql://192.168.178.57:3306/books";
 			//String url = "jdbc:mysql://localhost:3306/books";
 			con = DriverManager.getConnection(url, "bernd", "123456");
 			stmt = con.createStatement();
