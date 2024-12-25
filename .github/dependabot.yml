@@ -1,0 +1,8 @@
+version: 1
+updates:
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "thursday"
+    open-pull-requests-limit: 25
